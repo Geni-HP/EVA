@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RSSI>
+<!--
+// LGE_CHANGE_S, [Net_Patch_2008][CALL_FRW][Telstra], 2014-08-22, RSSI spec for Telstra {
+-->
+	<!-- RSSI Level Start-->
+	<item name="levelNum">5</item>
+	<!-- RSSI Level END-->
+
+	<!-- LTE Start-->
+	<!--  mLteRsrp, mLteRssnr, mLteSignalStrength, mLteRsrq  -->
+	<item name="mLteRsrp">5,-89,-99,-104,-114,-120</item>
+	<!-- LTE END-->
+<!--
+// LGE_CHANGE_E, [Net_Patch_2008][CALL_FRW][Telstra], 2014-08-22, RSSI spec for Telstra }
+-->
+</RSSI>

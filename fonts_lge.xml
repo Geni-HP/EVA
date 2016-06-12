@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Added System Default Fonts Family. Edit BlackCodeTech
+-->
+<familyset version="22">
+
+    <alias to="sans-serif" name="Roboto"/>
+
+    <family name="Aller">
+        <font weight="400" style="normal">Aller-Regular.ttf</font>
+        <font weight="700" style="normal">Aller-Bold.ttf</font>
+    </family>
+
+    <family name="Ample">
+        <font weight="400" style="normal">Ample-Regular.ttf</font>
+        <font weight="700" style="normal">Ample-Bold.ttf</font>
+    </family>
+
+    <family name="Comic Sanc">
+        <font weight="400" style="normal">Comic Sans.ttf</font>
+    </family>
+
+    <family name="Rush">
+        <font weight="400" style="normal">IHateComicSans.ttf</font>
+    </family>
+
+    <family name="SanBet">
+        <font weight="400" style="normal">Inductio.ttf</font>
+    </family>
+
+    <family name="Romance Fatel Serif Std">
+        <font weight="400" style="normal">DroidSerif-Regular.ttf</font>
+        <font weight="700" style="normal">DroidSerif-Bold.ttf</font>
+    </family>
+
+    <family name="Essense Sans">
+        <font weight="400" style="normal">EssenseSans.ttf</font>
+        <font weight="700" style="normal">EssenseSans-Bold.ttf</font>
+    </family>
+
+    <family name="Fonarto">
+        <font weight="400" style="normal">Fonarto.otf</font>
+    </family>
+
+    <family name="Fonarto XT">
+        <font weight="400" style="normal">Fonarto XT.otf</font>
+    </family>
+
+    <family name="Helvetica Neue">
+        <font weight="400" style="normal">HelveticaNeue.ttf</font>
+        <font weight="700" style="normal">HelveticaNeue-Bold.ttf</font>
+    </family>
+
+    <family name="Alex">
+        <font weight="400" style="normal">HYAlex_Regular.ttf</font>
+        <font weight="700" style="normal">HYAlex_Bold.ttf</font>
+    </family>
+
+    <family name="Anna">
+        <font weight="400" style="normal">HYAnna_Regular.ttf</font>
+        <font weight="700" style="normal">HYAnna_Bold.ttf</font>
+    </family>
+
+    <family name="Bendable">
+        <font weight="400" style="normal">HYBendable_Regular.ttf</font>
+        <font weight="700" style="normal">HYBendable_Bold.ttf</font>
+    </family>
+
+    <family name="BlackChancery">
+        <font weight="400" style="normal">HYBlackChancery_Regular.ttf</font>
+        <font weight="700" style="normal">HYBlackChancery_Bold.ttf</font>
+    </family>
+
+    <family name="Cocon">
+        <font weight="300" style="normal">HYCocon_Regular.ttf</font>
+        <font weight="600" style="normal">HYCocon_Bold.ttf</font>
+    </family>
+
+    <family name="Dezenpro">
+        <font weight="400" style="normal">HYDezenPro_Regular.ttf</font>
+        <font weight="700" style="normal">HYDezenPro_Bold.ttf</font>
+    </family>
+
+    <family name="Droid">
+        <font weight="400" style="normal">HYDroid_Regular.ttf</font>
+        <font weight="700" style="normal">HYDroid_Bold.ttf</font>
+    </family>
+
+    <family name="Romance Fatal">
+        <font weight="400" style="normal">HYDroid3-Regular.ttf</font>
+        <font weight="700" style="normal">HYDroid3-Bold.ttf</font>
+    </family>
+
+    <family name="Duality">
+        <font weight="400" style="normal">HYDuality_Regular.ttf</font>
+        <font weight="700" style="normal">HYDuality_Bold.ttf</font>
+    </family>
+
+    <family name="DYLOVASTUFF">
+        <font weight="400" style="normal">HYDylovaStuff_Regular.ttf</font>
+        <font weight="700" style="normal">HYDylovaStuff_Bold.ttf</font>
+    </family>
+
+    <family name="Fontin">
+        <font weight="400" style="normal">HYFontin_Regular.ttf</font>
+        <font weight="700" style="normal">HYFontin_Bold.ttf</font>
+    </family>	
+
+    <family name="Helvetica">
+        <font weight="400" style="normal">Helvetica-Regular.ttf</font>
+        <font weight="700" style="normal">Helvetica-Bold.ttf</font>
+    </family>
+
+    <family name="KlingonDagger">
+        <font weight="400" style="normal">KlingonDagger_Regular.ttf</font>
+        <font weight="700" style="normal">KlingonDagger_Bold.ttf</font>
+    </family>
+
+    <family name="SJsecret">
+        <font weight="400" style="normal">SJsecret.ttf</font>
+    </family>
+
+    <family name="SJicecream">
+        <font weight="400" style="normal">SJicecream.ttf</font>
+    </family>
+
+    <family name="MDPigDreams">
+        <font weight="400" style="normal">MDPigDreams.ttf</font>
+    </family>
+
+    <family name="MavenPro">
+        <font weight="400" style="normal">MavenPro.ttf</font>
+	    <font weight="700" style="normal">MavenPro-Bold.ttf</font>
+	</family>
+
+    <family name="UbuntuCondensed">
+        <font weight="400" style="normal">Ubuntu_Condensed_v3.ttf</font>
+	    <font weight="700" style="normal">Ubuntu_Condensed_v3-Bold.ttf</font>
+    </family>
+
+    <family name="SonyXperia">
+        <font weight="400" style="normal">SonyXperia.ttf</font>
+		<font weight="700" style="normal">SonyXperia-Bold.ttf</font>
+    </family>
+		
+    <family name="SamsungModern">
+        <font weight="400" style="normal">SamsungModern.otf</font>
+		<font weight="700" style="normal">SamsungModern-Bold.otf</font>
+	</family>
+
+    <family name="WalkDisney">
+        <font weight="400" style="normal">waltograph.otf</font>
+		<font weight="700" style="normal">waltographUIbold.ttf</font>
+    </family>
+
+    <family name="NewSmartGothic">
+        <font weight="400" style="normal">LGSmartGothic-Regular.ttf</font>
+		<font weight="700" style="normal">LGSmartGothic-Bold.ttf</font>
+	</family>
+
+    <family name="SegoePrint">
+        <font weight="400" style="normal">Segoe_Print.ttf</font>
+        <font weight="700" style="normal">Segoe_Print-Bold.ttf</font>
+    </family>
+
+    <family name="NokiaPure">
+        <font weight="400" style="normal">NokiaPure.ttf</font>
+		<font weight="700" style="normal">NokiaPure-Bold.ttf</font>
+	</family>	
+
+    <family name="MyriadPro">
+        <font weight="400" style="normal">MyriadPro-Regular.otf</font>
+		<font weight="700" style="normal">MyriadPro-Bold.otf</font>
+	</family>	
+
+    <family name="Facebook">
+        <font weight="400" style="normal">Facebook-Regular.ttf</font>
+		<font weight="700" style="normal">Facebook-Bold.ttf</font>
+    </family>
+	
+    <family name="SegoeWP">
+        <font weight="400" style="normal">SegoeWP.ttf</font>
+		<font weight="700" style="normal">SegoeWP_Print-Bold.ttf</font>
+	</family>
+
+    <family name="Genesis">
+        <font weight="400" style="normal">Genesis_Regular.ttf</font>
+		<font weight="700" style="normal">Genesis_Bold.ttf</font>
+	</family>
+
+    <family name="OpenSansCondensed">
+	    <font weight="400" style="normal">OpenSansCondensed.ttf</font>
+		<font weight="700" style="normal">OpenSansCondensed-Bold.ttf</font>
+	</family>
+
+    <family name="Newspaper">
+        <font weight="400" style="normal">Newspaper_Regular.ttf</font>
+		<font weight="700" style="normal">Newspaper_Bold.ttf</font>
+    </family>
+
+    <family name="Zekton">
+        <font weight="400" style="normal">HYZekton_Regular.ttf</font>
+		<font weight="700" style="normal">HYZekton_Bold.ttf</font>
+    </family>
+	
+    <family name="Fertigopro">
+        <font weight="400" style="normal">HYFertigoPro_Regular.ttf</font>
+		<font weight="700" style="normal">HYFertigoPro_Bold.ttf</font>
+	</family>
+    
+    <family name="Galette">
+        <font weight="400" style="normal">HYGalette_Regular.ttf</font>
+		<font weight="700" style="normal">HYGalette_Bold.ttf</font>
+    </family>
+
+    <family name="Kyma">
+        <font weight="400" style="normal">HYKyma_Regular.ttf</font>
+		<font weight="700" style="normal">HYKyma_Bold.ttf</font>
+    </family>
+
+    <family name="Lupinus">
+        <font weight="400" style="normal">HYLupinus_Regular.ttf</font>
+		<font weight="700" style="normal">HYLupinus_Bold.ttf</font>
+    </family>
+
+    <family name="Melted">
+        <font weight="400" style="normal">HYMelted_Regular.ttf</font>
+		<font weight="700" style="normal">HYMelted_Bold.ttf</font>
+    </family>
+
+    <family name="Sheandy">
+        <font weight="400" style="normal">HYSheandy_Regular.ttf</font>
+		<font weight="700" style="normal">HYSheandy_Bold.ttf</font>
+    </family>
+    
+    <family name="Nowadays">
+        <font weight="400" style="normal">Nowadays_Regular.ttf</font>
+		<font weight="700" style="normal">Nowadays_Bold.ttf</font>
+    </family>
+    
+    <family name="Tertre">
+        <font weight="400" style="normal">HYTertre_Regular.ttf</font>
+		<font weight="700" style="normal">HYTertre_Bold.ttf</font>
+	</family>
+
+    <family name="Neuro">
+        <font weight="400" style="normal">HYNeuro_Regular.ttf</font>
+		<font weight="700" style="normal">HYNeuro_Bold.ttf</font>
+    </family>
+	
+    <family name="Ghost">
+        <font weight="400" style="normal">Ghost_Regular.ttf</font>
+		<font weight="700" style="normal">Ghost_Bold.ttf</font>
+    </family>
+
+    <family name="Zrnic">
+        <font weight="400" style="normal">HYZrnic_Regular.ttf</font>
+		<font weight="700" style="normal">HYZrnic_Bold.ttf</font>
+	</family>
+	
+    <family name="Snidane">
+        <font weight="400" style="normal">HYSnidane_Regular.ttf</font>
+		<font weight="700" style="normal">HYSnidane_Bold.ttf</font>
+    </family>	
+	
+    <family name="Sofia">
+        <font weight="400" style="normal">Sofia.ttf</font>
+    </family>
+
+    <family name="Stylus">
+        <font weight="400" style="normal">LidoSTF.ttf</font>
+	</family>
+
+    <family name="Lido">
+        <font weight="400" style="normal">LidoSTF_Regular.ttf</font>
+		<font weight="700" style="normal">LidoSTF_Bold.ttf</font>
+	</family>
+
+    <family name="Times New Yorker">
+        <font weight="400" style="normal">NewYorker_Bold.ttf</font>
+		<font weight="700" style="normal">Newyorker_Regular</font>
+	</family>
+
+    <family name="Diavlo">
+        <font weight="400" style="normal">Diavlo_LIGHT.ttf</font>
+		<font weight="700" style="normal">Diavlo_MEDIUM.ttf</font>
+	</family>
+
+    <family name="Futura">
+        <font weight="400" style="normal">Futura Regular.ttf</font> 
+    </family>
+
+    <family name="Futura Md BT">
+        <font weight="400" style="normal">Futura_Medium_BT.ttf</font> 
+    </family>
+
+    <family name="Lubalin Graph">
+        <font weight="400" style="normal">Lubalin Graph Regular.ttf</font> 
+    </family>
+
+    <family name="Optima">
+        <font weight="400" style="normal">Optima Regular.ttf</font>
+	</family>
+
+    <family name="Ravenscroft">
+        <font weight="400" style="normal">Raven_Regular.ttf</font>
+		<font weight="700" style="normal">Raven_Bold.ttf</font>
+	</family>
+
+    <family name="GrandHotel">
+        <font weight="400" style="normal">GrandHotel-Regular.otf</font>
+	</family>
+	
+    <family name="Sanitechtro">
+        <font weight="400" style="normal">Sanitechtro.ttf</font>
+		<font weight="700" style="normal">Sanitechtro-Bold.ttf</font>
+    </family>	
+
+    <family name="Sony Sketch">
+        <font weight="400" style="normal">SonySketch_Regular.ttf</font>
+		<font weight="700" style="normal">SonySketch_Bold.ttf</font>
+    </family>
+
+    <family name="Sovda Regular">
+        <font weight="400" style="normal">Sovba_Regular.ttf</font>
+		<font weight="700" style="normal">Sovba_Bold.ttf</font>
+    </family>
+
+    <family name="Star Avenue">
+        <font weight="400" style="normal">StarAven_Regular.ttf</font>
+		<font weight="700" style="normal">StarAven_Bold.ttf</font>
+    </family>
+
+    <family name="ZonaPro">
+        <font weight="400" style="normal">ZonaPro-Thin.otf</font>
+		<font weight="700" style="normal">ZonaPro-Bold.otf</font>
+    </family>	
+
+    <family name="Walshes">
+        <font weight="400" style="normal">HYWalshes_Regular.ttf</font>
+		<font weight="700" style="normal">HYWalshes_Bold.ttf</font>
+    </family>
+
+    <family name="Me Smile">
+        <font weight="400" style="normal">UmakeMeSmile.otf</font>
+	</family>
+
+    <family name="HAPPY CLOUD">
+        <font weight="400" style="normal">UVF HAPPY CLOUD Regular.ttf</font>
+		<font weight="700" style="normal">UVF HAPPYCLOUD-Bold.ttf</font>
+    </family>
+
+</familyset>
